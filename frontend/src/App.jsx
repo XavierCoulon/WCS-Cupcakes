@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
-import NavBar from "@components/NavBar";
-import Home from "@pages/Home";
-import CupcakeList from "@pages/CupcakeList";
-import CupcakeDetails from "@pages/CupcakeDetails";
-import Instructions from "@pages/Instructions";
+import NavBar from "./components/NavBar";
+import Home from "./pages/Home";
+import CupcakeList from "./pages/CupcakeList";
+import CupcakeDetails from "./pages/CupcakeDetails";
+import Instructions from "./pages/Instructions";
 
 import "./App.css";
 
