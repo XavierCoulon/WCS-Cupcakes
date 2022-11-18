@@ -1,4 +1,6 @@
-# Checkpoint 2
+# Cupcakes exercices
+
+🎯 **Goal**: Checkpoint 2, using React / Router.
 
 ## Steps
 
