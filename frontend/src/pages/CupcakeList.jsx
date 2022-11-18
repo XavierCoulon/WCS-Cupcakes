@@ -60,7 +60,7 @@ export default function CupcakeList() {
           .filter((cupcake) =>
             selectedAccessory !== ""
               ? cupcake.accessory_id === selectedAccessory
-              : cupcake
+              : true
           )
           .map((cupcake) => (
             <li key={cupcake.id} className="cupcake-item">
